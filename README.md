@@ -83,4 +83,3 @@ Dados/programas.json
 ## Challenge
 
 This is a challenge by [Coodesh](https://coodesh.com/)
-```
